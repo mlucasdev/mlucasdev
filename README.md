@@ -1,3 +1,6 @@
+<head>
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+</head>
 ## Olá! Eu sou o Lucas Marques, desenvolvedor Back-End!
 <div align="center">
   <a href="https://github.com/mlucasdev">
