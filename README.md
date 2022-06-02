@@ -1,4 +1,5 @@
 ## Olá! Eu sou o Lucas Marques, desenvolvedor Back-End!
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
 <div align="center">
   <a href="https://github.com/mlucasdev">
   ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
