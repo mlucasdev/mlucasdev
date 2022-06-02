@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Lucas Marques, desenvolvedor Back-End!
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=mlucasdev&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&height=100)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlucasdev&layout=compact&theme=dracula&height=200)](https://github.com/mlucasdev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlucasdev&theme=dracula&card_width=200)](https://github.com/mlucasdev/github-readme-stats)
 <div align="center">
   <a href="https://github.com/mlucasdev">
 </div>
