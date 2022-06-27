@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Lucas Marques, desenvolvedor Back-End!
 <div align="center">
   <a href="https://github.com/mlucasdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mlucasdev&show_icons=true&theme=dracula&count_private=true"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlucasdev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div align="center">
